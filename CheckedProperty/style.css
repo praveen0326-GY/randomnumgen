@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana;
+  font-size: 2em;
+}
+
+#mySubmit {
+  padding: 10px 25px;
+  font-size: 0.5em;
+  border-radius: 10px;
+  box-shadow: 10px 5px 10px gray;
+  transition: 0.4ms;
+  background-color: brown;
+  cursor: pointer;
+  color: azure;
+}
+
+#mySubmit:hover {
+  background-color: black;
+}
